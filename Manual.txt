@@ -1,0 +1,23 @@
+MANUAL
+RAT MAZE
+
+INSTRUÇÕES:
+
+Ande com o rato pelo labirinto até achar a saida, durante o caminho, 
+colete queijos para aumentar o tempo.
+
+Caso o tempo acabe, o jogo termina.
+
+Caso você chegue ao final do labirinto dentro do tempo, você ganha.
+
+Utilize o Bluetooth do celular para conectar ao arduino para receber as
+informações do jogo no app. Caso não esteja conectado, o rato não coleta
+queijo.
+
+
+COMANDOS:
+
+W, A, S, D (ou setas direcionais) -> rato anda
+
+Celular -> clica para comer o queijo/ contagem de tempo
+
